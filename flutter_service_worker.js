@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "08f6a5db5a3ea019a9c22a33af386d3a",
-"index.html": "22e9e3e96bfd1de4da9490b61339916c",
-"/": "22e9e3e96bfd1de4da9490b61339916c",
+"index.html": "289267eae115dbb1cc137792c1195703",
+"/": "289267eae115dbb1cc137792c1195703",
 "main.dart.js": "2533e12efce14b4b2a3286b2bad78c4d",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -22,7 +22,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/instagram.png": "8290266a5fb402a34b96f890bbdb2d60",
 "assets/assets/IAESTE%2520Full%2520Name%2520Logo%2520White-01.png": "23d0b998d364bb2dbbd6f88149c2f8d7",
-"assets/assets/bgImg.jpg": "b7841af860555bcb719ec142373d6694",
+"assets/assets/bgImg.jpg": "fa670672b57ad2829a81f60591d35e12",
 "assets/assets/twitter.png": "8f35a40403a84631c4125c4f1859c7a6",
 "assets/assets/linkedin.png": "d492efc706db983e74258dbd348f2208",
 "assets/assets/iconlogo.png": "2d25972c99bfb049aece3563346c39b6",
